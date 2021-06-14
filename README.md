@@ -1,7 +1,7 @@
 # Mindset Summary  
-
-
-
+  
+**Hello my name is Yousef Alramli, 25 years old adn this is my sammary i hope you like it.**
+  
 ## At first we shall know that the two types of mindset are:
 1. Fixed mindset
 2. Growth mindset 
