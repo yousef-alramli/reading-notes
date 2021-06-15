@@ -1,6 +1,6 @@
 # Intro
 
-**hello, I am yousef alramli, 25 years old, i got ma bachlor dgree of animal production frome The Universty of Jordan.**  
+**hello, I am Yousef Alramli, 25 years old, I got ma bachelor degree of Animal Poduction from The University of Jordan.**  
 
 | Table Of Content  |
 | ------------- | 
