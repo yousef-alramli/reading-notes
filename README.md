@@ -1,6 +1,6 @@
 # Intro
 
-**hello, I am Yousef Alramli, 25 years old, I got ma bachelor degree of Animal Poduction from The University of Jordan.**  
+**Hello, I am Yousef Alramli, 25 years old, I got my bachelor degree of Animal Production from The University of Jordan.**  
 ## Code 102 Reading notes
 | Table Of Content  |
 | ------------- | 
