@@ -797,6 +797,186 @@ Here is a model of a hotel, along with some model trees, model people,
 and model cars. To a human, it is clear what kind of real -world object
 each one represents.
 
+#### OBJECTS & PROPERTIES
+OBJECTS (THINGS)
+In computer programming, each physica l thing in
+the world can be represented as an object. There are
+two different types of objects here: a hotel and a car.
+Programmers might say that there is one instance of
+the hotel object, and two instances of the car object.
+Each object can have its own:
+- Properties
+- Events
+- Methods
+
+#### EVENTS
+In the real world, people interact with objects. These interactions can
+change the values of the properties in these objects.
+WHAT IS AN EVENT?
+There are common ways in which people interact
+with each type of object.  
+ For example, in a car a
+driver will typically use at least two pedals. The car
+has been designed to respond differently when the
+driver interacts with each of the different pedals:
+- The accelerator makes the car go faster
+- The brake slows it down
+
+#### METHODS
+Methods represent things people need to do with objects. They can
+retrieve or update the values of an object's properties.
+WHAT IS A METHOD?
+Methods typically represent how people (or other
+things) interact with an object in the real world.
+
+They are like questions and instructions that:  
+- Tell you something about that object (using
+information stored in its properties)
+- Change the value of one or more of that object's
+properties
+
+#### PUTTING IT ALL TOGETHER
+Computers use data to create models of things in the real world.
+The events, methods, and properties of an object all relate to each other:
+Events can trigger methods, and methods can retrieve or update an
+object's properties.
+
+
+#### WEB BROWSERS ARE PROGRAMS BUILT USING OBJECTS
+
+You have seen how data can be used to create a model of a hotel or a car.
+Web browsers create similar models of the web page they are showing
+and of the browser window that the page is being shown in.
+
+**WINDOW OBJECT**  
+On the right-hand page you can see a model of a
+computer with a browser open on the screen.
+The browser represents each window or tab using a
+window object. The location property of the window
+object will tell you the URL of the current page.
+
+#### THE DOCUMENT OBJECT REPRESENTS AN HTML PAGE
+
+Using the document object, you can access and change what content
+users see on the page and respond to how they interact with it.
+Like other objects that represent real-world things,
+the document object has:
+- PROPERTIES  
+Properties describe characteristics of the current
+web page (such as the t itle of the page).
+- METHODS  
+Methods perform tasks associated with the
+document currently loaded in the browser (such
+as getting information from a specified element or
+adding new content).
+- EVENTS  
+You can respond to events, such as a user clicking or
+tapping on an element.
+
+#### HOW A BROWSER SEES A WEB PAGE
+
+
+- RECEIVE A PAGE AS  
+HTML CODE
+Each page on a website can be
+seen as a separate document .
+So, the web consists of many
+sites, each made up of one or
+more documents.
+
+- CREATE A MODEL OF  
+THE PAGE AND STORE
+IT IN MEMORY
+The model shown on the right
+hand page is a representation
+of one very basic page. Its
+structure is reminiscent of a
+family tree. At the top of the
+model is a document object,
+which represents the whole
+document.
+
+- USE A RENDERING  
+ENGINE TO SHOW THE
+PAGE ON SCREEN
+If there is no CSS, the rendering
+engine will apply default styles
+to HTML elements. However,
+the HTML code for this example
+links to a CSS style sheet, so the
+browser requests that file and
+displays the page accordingly.
+
+
+All major browsers use a JavaScript interpreter to translate your
+instructions (in JavaScript) into instructions the computer can follow.
+
+### How Do I Script For aWeb Page 
+
+#### HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER
+
+Before diving into the JavaScript language, you
+need to know how it will fit together with the
+HTML and CSS in your web pages.
+
+- CONTENT LAYER
+. html files  
+This is where the content of
+the page lives. The HTML gives
+the page structure and adds
+semantics.
+
+- PRESENTATION LAYER
+.css files  
+The CSS enhances the HTML
+page with rules that state how
+the HTML content is presented
+(backgrounds, borders, box
+dimensions, colors, fonts, etc.).
+
+- BEHAVIOR LAYER .js files  
+This is where we can change
+how the page behaves, adding
+interact ivity. We will aim to keep
+as much of our JavaScript as
+possible in separate files.
+
+#### PROGRESSIVE ENHANCEMENT
+
+
+These three layers form the basis of a popular
+approach to building web pages called
+progressive enhancement.
+
+* HTML ONLY  
+Starting with the HTML layer
+allows you to focus on the most
+important thing about your site:
+its content.
+
+* HTML+CSS  
+Adding the CSS rules in a
+separate file keeps rules
+regarding how the page looks
+away from the content itself.
+ * HTML+CSS+JAVASCRIPT  
+The JavaScript is added last
+and enhances the usability of
+the page or the experience of
+interacting with the site.
+
+#### CREATING A BASIC JAVASCRIPT
+
+JavaScript is written in plain text, just like HTML and CSS, so you do not
+need any new tools to write a script. This example adds a greeting into an
+HTML page. The greeting changes depending on the time of day.
+
+#### LINKING TO A JAVASCRIPT FILE FROM AN HTML PAGE
+When you want to use JavaScript with a web page, you use the HTML
+<script> element to tell the browser it is coming across a script.
+Its s re attribute tells people where the JavaScript file is stored.
+
+
 
 
 
