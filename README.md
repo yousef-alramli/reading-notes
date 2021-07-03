@@ -17,18 +17,18 @@
 
 | Table Of Content  |
 | ------------- | 
-|[Read01](https://yousef-alramli.github.io/reading-notes/reading-notes201/read01)|
-|[Read02](https://yousef-alramli.github.io/reading-notes/reading-notes201/read02)|
-|[Read03](https://yousef-alramli.github.io/reading-notes/reading-notes201/read03)|
-|[Read04](https://yousef-alramli.github.io/reading-notes/reading-notes201/read04)|
-|[Read05](https://yousef-alramli.github.io/reading-notes/reading-notes201/read05)|
-|[Read06](https://yousef-alramli.github.io/reading-notes/reading-notes201/read06)|
-|[Read07](https://yousef-alramli.github.io/reading-notes/reading-notes201/read07)|
-|[Read08](https://yousef-alramli.github.io/reading-notes/reading-notes201/read08)|
-|[Read09](https://yousef-alramli.github.io/reading-notes/reading-notes201/read09)|
-|[Read10](https://yousef-alramli.github.io/reading-notes/reading-notes201/read10)|
-|[Read11](https://yousef-alramli.github.io/reading-notes/reading-notes201/read11)|
-|[Read12](https://yousef-alramli.github.io/reading-notes/reading-notes201/read12)|
-|[Read13](https://yousef-alramli.github.io/reading-notes/reading-notes201/read13)|
-|[Read14a](https://yousef-alramli.github.io/reading-notes/reading-notes201/read14a)|
-|[Read14b](https://yousef-alramli.github.io/reading-notes/reading-notes201/read14b)|
+|[Read01](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read01)|
+|[Read02](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read02)|
+|[Read03](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read03)|
+|[Read04](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read04)|
+|[Read05](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read05)|
+|[Read06](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read06)|
+|[Read07](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read07)|
+|[Read08](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read08)|
+|[Read09](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read09)|
+|[Read10](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read10)|
+|[Read11](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read11)|
+|[Read12](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read12)|
+|[Read13](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read13)|
+|[Read14a](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read14a)|
+|[Read14b](https://yousef-alramli.github.io/reading-notes/reading-notes201/Read14b)|
