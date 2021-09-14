@@ -50,4 +50,5 @@
 |[Read06](https://yousef-alramli.github.io/reading-notes/reading-notes301/Read06)|
 |[Read07](https://yousef-alramli.github.io/reading-notes/reading-notes301/Read07)|
 |[Read08](https://yousef-alramli.github.io/reading-notes/reading-notes301/Read08)|
+|[Read09](https://yousef-alramli.github.io/reading-notes/reading-notes301/Read09)|
 ## Code 401 - Advanced Software Development
