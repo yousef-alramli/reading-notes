@@ -57,3 +57,4 @@
 |[Read05](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read05)|
 |[Read06](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read06)|
 |[Read07](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read07)|
+|[Read08](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read08)|
