@@ -66,3 +66,4 @@
 |[Read14](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read14)|
 |[Read16](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read16)|
 |[Read17](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read17)|
+|[Read18](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read18)|
