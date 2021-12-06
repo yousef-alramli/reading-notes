@@ -70,3 +70,4 @@
 |[Read19](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read19)|
 |[Read26](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read26)|
 |[Read27](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read27)|
+|[Read28](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read28)|
