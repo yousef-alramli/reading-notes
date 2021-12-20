@@ -79,3 +79,4 @@
 |[Read35](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read35)|
 |[Read36](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read36)|
 |[Read37](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read37)|
+|[Read38](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read38)|
