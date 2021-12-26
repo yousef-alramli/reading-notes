@@ -82,3 +82,5 @@
 |[Read38](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read38)|
 |[Read39](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read39)|
 |[Read41](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read41)|
+|[Read42](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read42)|
+|[Read42-Ethics](https://yousef-alramli.github.io/reading-notes/reading-notes401/Read42-Ethics)|
